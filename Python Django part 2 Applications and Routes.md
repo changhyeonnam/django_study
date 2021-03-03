@@ -67,7 +67,6 @@ What if we want [localhost:8000](http://localhost:8000) to be a blog page : 'blo
 
 ```bash
 cd django_project
-virtualenv venv
 python manage.py startapp blog
 python manage.py runserver 
 ```
